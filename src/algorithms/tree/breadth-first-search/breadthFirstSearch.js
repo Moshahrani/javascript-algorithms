@@ -24,7 +24,6 @@ function initCallbacks(callbacks = {}) {
 
   return initiatedCallback;
 }
-
 /**
  * @param {BinaryTreeNode} rootNode
  * @param {Callbacks} [originalCallbacks]
